@@ -1,0 +1,51 @@
+<!-- NAME:WENYU PENG REDID:824673376 CLASS:CS648 INSTRUCTOR: Zak Ruvalcaba-->
+
+.main {
+	text-align:center;
+	border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+	background-color:#ff0000;
+}
+
+.main h1 {
+	font-size: 40pt;
+	font-weight: bold;
+	color: #1F4E79;
+	font-family: serif;
+	text-align: Center;
+}
+
+.fig_center{
+	text-align:center;
+}
+
+.headshot{
+	width:300px;
+}
+
+.introduciton{
+	text-align:center;
+}
+
+.git{
+	text-align:center;
+}
+
+.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+footer{
+	text-align:center;
+}
