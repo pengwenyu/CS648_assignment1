@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/pengwenyu/CS648_assignment_1#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
